@@ -1,4 +1,17 @@
-express_canjs_base
-==================
+# Express with CanJS
 
-express base with canjs 
+## Setup
+
+```
+npm install
+npm install -g bower
+npm install -g grunt-cli
+bower install
+```
+
+## How to run
+
+```
+grunt run
+```
+
